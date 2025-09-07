@@ -26,34 +26,10 @@ express-session: For managing sessions.
 cookie-parser: To parse cookie headers.
 cors: To enable Cross-Origin Resource Sharing.
 📂 Project Structure
-code
-Code
-project-root/
-│
-├── backend/
-│   ├── server.js         # Main Express server file
-│   ├── db.js             # SQLite database connection and setup
-│   ├── routes/
-│   │   └── auth.js       # API routes for authentication
-│   ├── package.json
-│   └── users.db          # (auto-generated) SQLite database file
-│
-├── frontend/
-│   ├── src/
-│   │   ├── App.js        # Main component with routing
-│   │   └── components/
-│   │       ├── Login.js
-│   │       ├── Register.js
-│   │       └── Dashboard.js
-│   └── package.json
-│
-├── render.yaml           # Deployment configuration for Render
-└── README.md             # You are here!
-⚙️ Setup & Run Locally
-To get this project running on your local machine, follow these steps.
-Prerequisites
-Node.js (version 14.x or newer)
-npm (comes with Node.js)
+
+<img width="685" height="607" alt="image" src="https://github.com/user-attachments/assets/3b0249ad-460e-4aa0-9e1b-52ca48905ea4" />
+
+
 1. Clone the Repository
 code
 Bash
